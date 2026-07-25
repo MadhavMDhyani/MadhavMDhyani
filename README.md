@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>Java Full Stack Developer and Computer Science student focused on building scalable, real world applications. <br>Experienced in Java, Spring Boot, JavaScript, Tailwind CSS, and MongoDB, with a strong interest in backend development and problem solving.<br> Currently working on multiple projects, exploring modern technologies, and deploying production ready applications.<br>
+## About Me<br><br>Java Full Stack Developer and Computer Science student (2nd year) focused on building scalable, real world applications. <br>Experienced in Java, Spring Boot, JavaScript, Tailwind CSS, and MongoDB, with a strong interest in backend development and problem solving.<br> Currently working on multiple projects, exploring modern technologies, and deploying production ready applications.<br>
 
 
 ## 🌐 Socials:
